@@ -1,4 +1,4 @@
-# TSF_project_task1
+# The_Sparks_Foundation_task1
 ## developing_a_basic_banking_system_html,css,javascript 
 Sparks Foundation Web Development Internship Project : Basic Banking System website. A web application used to tranfer virtual money between multiple users and also record the banking transactions/ activities.
 
